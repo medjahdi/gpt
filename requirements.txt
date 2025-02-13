@@ -5,3 +5,4 @@ uvicorn
 g4f
 appdirs
 yaml
+pyyaml
