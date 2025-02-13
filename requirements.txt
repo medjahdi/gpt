@@ -1,8 +1,7 @@
-fastapi
-pydantic
+fastapi==0.115.8
+pydantic==2.10.4
 Pycodz
-uvicorn
-g4f
-appdirs
-yaml
-pyyaml
+uvicorn==0.34.0
+g4f==0.4.0.9
+appdirs==1.4.4
+PyYAML==6.0.2
