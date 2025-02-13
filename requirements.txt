@@ -2,3 +2,5 @@ fastapi
 pydantic
 Pycodz
 uvicorn
+g4f
+appdirs
