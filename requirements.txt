@@ -6,3 +6,4 @@ g4f==0.4.0.9
 appdirs==1.4.4
 PyYAML==6.0.2
 httpx==0.28.1
+rich==13.9.4
