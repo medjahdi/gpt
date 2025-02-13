@@ -4,3 +4,4 @@ Pycodz
 uvicorn
 g4f
 appdirs
+yaml
