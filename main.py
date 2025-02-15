@@ -14,7 +14,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-@app.get("/blackhat")
+@app.get("/medjahdi")
 def chat(
     request: str= Query(..., title="Prompt", description="Prompt for the chatbot")
     ):
